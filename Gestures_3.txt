@@ -1,0 +1,29 @@
+Gestures List:
+
+
+Right Hand--
+
+	Cursor control = Index Finger 
+	Click control (Select object) = Index + Thumb Pinch 
+	Scroll control = Index + Middle Finger
+	Select and Drag or Move window = Index and Middle Finger Spread
+	Minimise window = All Fingers Open (Front Palm Open) -> Tips Together (fingers fairly straight from knuckles to tips) 
+	Close window = All Fingers Open (Front Palm Open) -> Close into a Fist 
+	Restore down = Middle, Ring, and Pinky Fingers Straight Together, Index and Thumb Brought Together 
+	Restore up = Thumb and Index Joined -> Thumb and Index Split Apart
+
+
+Left Hand-- 
+
+Thumb + Index Finger Distance = Volume control
+Thumb + Middle Finger Distance = Brightness control
+OR
+Double Pinch (Thumb + Index + Middle) = Toggle between Volume and Brightness control
+Thumb + Index Finger Distance (after toggle) = Adjust value of the selected control (volume or brightness)
+All Fingers Joined (Palm Open) -> Wrist Bends Right = Rewind or Left Shifting
+All Fingers Joined (Palm Open) -> Wrist Bends Left = Fast Forward or Right Shifting
+Left Hand Raised (after selecting the object with the right hand):
+Index Finger (Number 1) = Copy the object
+Index + Middle Finger (Number 2) = Cut the object
+Index + Middle + Ring Finger (Number 3) = Paste the object
+
